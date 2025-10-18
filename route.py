@@ -5,3 +5,5 @@ def route_cost(base):
 
 if __name__ == "__main__":
     print(route_cost(100))
+
+# minor refactor
