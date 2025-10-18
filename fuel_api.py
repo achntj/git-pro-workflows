@@ -1,2 +1,6 @@
 def price_multiplier():
-    return 1.0
+    return 0.97
+
+# cost normalizer
+
+# TODO: replace with real normalization
